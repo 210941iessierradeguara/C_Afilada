@@ -13,13 +13,13 @@ namespace Ejercicio01
             int a = 10;
             int b = 5;
 
-            Console.Write(a+b);
-            Console.Write(a-b);
-            Console.Write(a*b);
-            Console.Write(a/b);
-            Console.Write(a%b);
-            Console.Write(a++);
-            Console.Write(b--);
+            Console.WriteLine(a+b);
+            Console.WriteLine(a-b);
+            Console.WriteLine(a*b);
+            Console.WriteLine(a/b);
+            Console.WriteLine(a%b);
+            Console.WriteLine(a++);
+            Console.WriteLine(b--);
         }
     }
 }
